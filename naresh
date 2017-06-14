@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Enter path"
+read $0
+cd "$0" 
